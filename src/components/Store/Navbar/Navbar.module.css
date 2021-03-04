@@ -1,0 +1,7 @@
+.navbar__wrapper {
+    background-color: gray;
+}
+
+.navbar__item {
+    cursor: pointer;
+}

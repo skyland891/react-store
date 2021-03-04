@@ -1,0 +1,14 @@
+.store__wrapper {
+    padding: 0 110px;
+    display: flex;
+    flex-direction: row;
+}
+
+.store__title {
+    margin: 0;
+    padding: 0;
+}
+
+.store__cards{
+    
+}
